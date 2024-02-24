@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Olá, sou Pedro 👋
 

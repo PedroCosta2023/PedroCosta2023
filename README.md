@@ -1,3 +1,4 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 # 💫 About Me:
 
 Olá, sou Pedro 👋
@@ -7,9 +8,6 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e ino
 Minha jornada no mundo da programação começou há aproximadamente 2 anos, e desde então, tenho explorado diversas áreas, com foco especial no desenvolvimento mobile com Flutter e gerenciamento de dados em bancos de dados como MongoDB e MySQL.
 
 # 👨‍💻✨Principais Habilidades:
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 
 
 

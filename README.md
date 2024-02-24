@@ -1,9 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Lucas;I'm+22+years+old;I´m+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br/>
 
 # 💫 About Me:
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Olá, sou Pedro 👋
 
 Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e inovação. Atualmente, trabalho como profissional de monitoramento de redes na Telefônica, contribuindo para a eficiência e estabilidade das operações de rede.
 
@@ -35,3 +41,7 @@ Minha jornada no mundo da programação começou há aproximadamente 2 anos, e d
 [![](https://visitcount.itsvg.in/api?id=PedroCosta2023&icon=9&color=12)](https://visitcount.itsvg.in)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma pergunta ou sugestão. Estou sempre aberto a novas oportunidades e colaborações emocionantes!
+
+![Snake animation](https://github.com/lucascorreaa/lucascorreaa/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
